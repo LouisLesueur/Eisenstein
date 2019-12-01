@@ -1,5 +1,5 @@
 # Eisenstein
 Presentation for my Russian lessons, made with reveal.js
 
-##Author
+## Author
 + **Louis Lesueur**, student at the École Nationale des Ponts et Chaussées (ENPC)
