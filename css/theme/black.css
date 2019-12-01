@@ -231,6 +231,10 @@ body {
   background: rgba(255, 255, 255, 0);
   }
 
+#ivan {
+  font-size: 30px;
+}
+
 #logo {
   height: 350px;
   margin: 15px 0px;
